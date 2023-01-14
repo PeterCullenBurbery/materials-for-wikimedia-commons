@@ -10,10 +10,10 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[       158,          7]
-NotebookDataLength[    657740,      10330]
-NotebookOptionsPosition[    653409,      10246]
-NotebookOutlinePosition[    653850,      10263]
-CellTagsIndexPosition[    653807,      10260]
+NotebookDataLength[    657736,      10330]
+NotebookOptionsPosition[    653405,      10246]
+NotebookOutlinePosition[    653846,      10263]
+CellTagsIndexPosition[    653803,      10260]
 WindowFrame->Normal*)
 
 (* Beginning of Notebook Content *)
@@ -10238,10 +10238,10 @@ Cell[BoxData[
  RowBox[{"SystemOpen", "[", 
   "\"\<C:\\\\Users\\\\Peter\\\\OneDrive - Marshall \
 University\\\\Documents\\\\GitHub\\\\materials-for-wikimedia-commons\\\\3D \
-Voronoi mesh of 25 random points with 0.3 opacity and points.svg\>\"", 
+Voronoi mesh of 25 random points convex polyhedra pieces.svg\>\"", 
   "]"}]], "Input",
  NumberMarks->False,
- CellLabel->"In[20]:=",ExpressionUUID->"cdd7991c-3b35-45ea-ab52-655138abeb52"]
+ CellLabel->"In[25]:=",ExpressionUUID->"27ed29b7-9490-4243-9d72-7e13e164fa79"]
 }, Open  ]]
 },
 WindowSize->{1152., 615.6},
@@ -10330,7 +10330,7 @@ Cell[CellGroupData[{
 Cell[651818, 10207, 804, 19, 48, "Input",ExpressionUUID->"0aabfe4e-190a-4102-829c-310dfdaf92c5"],
 Cell[652625, 10228, 390, 5, 52, "Output",ExpressionUUID->"54d9e4e0-48bf-4cf6-b358-0070557867ac"]
 }, Open  ]],
-Cell[653030, 10236, 363, 7, 67, "Input",ExpressionUUID->"cdd7991c-3b35-45ea-ab52-655138abeb52"]
+Cell[653030, 10236, 359, 7, 67, "Input",ExpressionUUID->"27ed29b7-9490-4243-9d72-7e13e164fa79"]
 }, Open  ]]
 }
 ]
